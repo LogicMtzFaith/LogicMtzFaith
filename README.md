@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LogicMtzFaith
-- 👀 I’m interested in AI 
-- 🌱 I’m currently learning multiple ai image and video generation platforms 
-- 💞️ I’m looking to collaborate on a Christian ai generated movie 
+- 👋 Hey all
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 How to reach me logicmeetsfaith@gmail.com 
 - 😄
 - ⚡ 
